@@ -192,4 +192,4 @@ This repository serves as the official landing page for Acronis True Image Unlim
 **Get the most recent version of Acronis True Image today!**
 
 ---
-**Last updated:** 2026-11-14 07:11:41 UTC
+**Last updated:** 2026-11-14 14:37:59 UTC
